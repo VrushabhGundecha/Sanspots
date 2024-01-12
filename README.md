@@ -14,24 +14,6 @@ The Sanspots Registration System is a web-based application that allows users to
 - CRUD operations for user data management
 - File upload functionality for user profile pictures
 
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following software installed on your machine:
-
-- PHP
-- MySQL
-- Web server (Apache)
-
-### Installation
-
-1. Clone the repository:
-
-```bash
-git clone git@github.com:VrushabhGundecha/Sanspots.git
-cd sanspots
-
 ### Front-End
 
 The front-end of the Sanspots Registration System is developed using HTML, CSS, and JavaScript. It features a user-friendly interface with a multi-step form for seamless registration and dynamic content.
@@ -50,3 +32,25 @@ To ensure the security of the application, we have implemented:
 Input Validation: Robust validation for user input.
 Error Handling: Proper error handling to enhance security.
 Secure Password Storage: User passwords are securely hashed.
+
+## Getting Started
+
+
+### Prerequisites
+
+Ensure you have the following software installed on your machine:
+
+- PHP
+- MySQL
+- Web server (Apache)
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone git@github.com:VrushabhGundecha/Sanspots.git
+cd sanspots
+                                  
+
+
